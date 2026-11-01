@@ -30,6 +30,7 @@ The data comes in three files. I trained on one (4 to 10 Feb 2015, 8143 rows) an
 ## Limits
 
 One room and a few weeks of data, so I can't say this works anywhere else. Test 1 is from before the training dates, so only test 2 is truly "later".
+The occupancy labels in this dataset came from photos taken every minute, so a camera was used to create the answers, even though my model does not use one.
 
 ## Run it
 
