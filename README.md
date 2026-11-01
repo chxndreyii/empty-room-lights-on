@@ -3,7 +3,7 @@
 I'm learning machine learning, and this is one of my first projects. The question: can you tell whether someone is in a room from sensor readings alone, with no camera? And if the room looks empty but the light is on, can the model warn you to switch it off?
 
 I used the UCI Occupancy Detection dataset. The notebook downloads it, so the data is not in this repo.
-Dataset credit: [paste the citation from the UCI page]
+
 
 ## How I did it
 
