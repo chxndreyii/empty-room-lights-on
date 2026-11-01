@@ -38,4 +38,4 @@ The occupancy labels in this dataset came from photos taken every minute, so a c
 
 Open the notebook in Google Colab and choose Runtime > Run all.
 
-[Your name]
+
